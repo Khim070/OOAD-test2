@@ -1,0 +1,20 @@
+C:\Users\palav\source\repos\OOAD test2\OOAD test2\bin\Debug\net8.0-windows\OOAD test2.exe
+C:\Users\palav\source\repos\OOAD test2\OOAD test2\bin\Debug\net8.0-windows\OOAD test2.deps.json
+C:\Users\palav\source\repos\OOAD test2\OOAD test2\bin\Debug\net8.0-windows\OOAD test2.runtimeconfig.json
+C:\Users\palav\source\repos\OOAD test2\OOAD test2\bin\Debug\net8.0-windows\OOAD test2.dll
+C:\Users\palav\source\repos\OOAD test2\OOAD test2\bin\Debug\net8.0-windows\OOAD test2.pdb
+C:\Users\palav\source\repos\OOAD test2\OOAD test2\bin\Debug\net8.0-windows\ExpenseLib.dll
+C:\Users\palav\source\repos\OOAD test2\OOAD test2\obj\Debug\net8.0-windows\OOAD test2.csproj.AssemblyReference.cache
+C:\Users\palav\source\repos\OOAD test2\OOAD test2\obj\Debug\net8.0-windows\OOAD_test2.Form1.resources
+C:\Users\palav\source\repos\OOAD test2\OOAD test2\obj\Debug\net8.0-windows\OOAD test2.csproj.GenerateResource.cache
+C:\Users\palav\source\repos\OOAD test2\OOAD test2\obj\Debug\net8.0-windows\OOAD test2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\palav\source\repos\OOAD test2\OOAD test2\obj\Debug\net8.0-windows\OOAD test2.AssemblyInfoInputs.cache
+C:\Users\palav\source\repos\OOAD test2\OOAD test2\obj\Debug\net8.0-windows\OOAD test2.AssemblyInfo.cs
+C:\Users\palav\source\repos\OOAD test2\OOAD test2\obj\Debug\net8.0-windows\OOAD test2.csproj.CoreCompileInputs.cache
+C:\Users\palav\source\repos\OOAD test2\OOAD test2\obj\Debug\net8.0-windows\OOAD test2.csproj.Up2Date
+C:\Users\palav\source\repos\OOAD test2\OOAD test2\obj\Debug\net8.0-windows\OOAD test2.dll
+C:\Users\palav\source\repos\OOAD test2\OOAD test2\obj\Debug\net8.0-windows\refint\OOAD test2.dll
+C:\Users\palav\source\repos\OOAD test2\OOAD test2\obj\Debug\net8.0-windows\OOAD test2.pdb
+C:\Users\palav\source\repos\OOAD test2\OOAD test2\obj\Debug\net8.0-windows\OOAD test2.genruntimeconfig.cache
+C:\Users\palav\source\repos\OOAD test2\OOAD test2\obj\Debug\net8.0-windows\ref\OOAD test2.dll
+C:\Users\palav\source\repos\OOAD test2\OOAD test2\bin\Debug\net8.0-windows\expense.txt

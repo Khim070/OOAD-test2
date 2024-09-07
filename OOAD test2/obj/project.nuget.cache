@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "je555PTaLys=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\palav\\source\\repos\\OOAD test2\\OOAD test2\\OOAD test2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\palav\\.nuget\\packages\\expenselib\\1.0.0\\expenselib.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
